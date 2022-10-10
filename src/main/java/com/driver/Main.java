@@ -11,8 +11,6 @@ public class Main {
                 public double product(double x, double y) {
                         return x;
                 }
-
-
         }
         public static void main(String args[]){
                 Product p = new Product();
